@@ -1,4 +1,4 @@
-# Swiggy Data Pipeline in Snowflake
+# Food Aggregator Data Pipeline in Snowflake
 
 ![Snowflake](https://img.shields.io/badge/Data%20Warehouse-Snowflake-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-green)
